@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.cdgdbentre.edu.vn%2Fpixel-gif-wallpaper-jkv6mi99%2F&psig=AOvVaw061U3u5pCeGm-dncg_vThx&ust=1703414906345000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDkjKOxpYMDFQAAAAAdAAAAABAD)](https://hangzhang.site)
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)](https://hangzhang.site)
 
 <h1 align="center">Hi 👋, I'm Ham Zhang</h1>
 <h3 align="center">A second-year CS master student.</h3>
