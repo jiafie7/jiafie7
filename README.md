@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenM3eDczaXlkeWNwOHEyZGRxNng2NDR6N2YwYWNsNHA4bXZwd3pqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)](https://hangzhang.site)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.cdgdbentre.edu.vn%2Fpixel-gif-wallpaper-jkv6mi99%2F&psig=AOvVaw061U3u5pCeGm-dncg_vThx&ust=1703414906345000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDkjKOxpYMDFQAAAAAdAAAAABAD)](https://hangzhang.site)
 
 <h1 align="center">Hi 👋, I'm Ham Zhang</h1>
 <h3 align="center">A second-year CS master student.</h3>
