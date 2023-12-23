@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ham Zhang</h1>
 <h3 align="center">A second-year CS master student.</h3>
 
-<img align="right" alt="Coding" width="400" height="180" src="https://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif">
+<img align="right" alt="Coding" width="500" height="180" src="https://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiafie7&label=Profile%20views&color=0e75b6&style=flat" alt="jiafie7" /> </p>
 
