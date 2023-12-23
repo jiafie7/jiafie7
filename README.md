@@ -1,6 +1,6 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376)](https://hangzhang.site)
 
-<h1 align="center">Hi 👋, I'm Ham Zhang</h1>
+<h1 align="center">Hi 👋, I'm Garfield</h1>
 <h3 align="center">A second-year CS master student.</h3>
 
 <img align="right" alt="Coding" width="500" height="180" src="https://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif">
