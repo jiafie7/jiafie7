@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-<img align="left" src="https://komarev.com/ghpvc/?username=jiafie7&label=Profile%20views&color=0e75b6&style=flat" alt="jiafie7" />
+<img align="right" src="https://komarev.com/ghpvc/?username=jiafie7&label=Profile%20views&color=0e75b6&style=flat" alt="jiafie7" />
 </div>
 <br/>
 
@@ -10,15 +10,6 @@ Hi, I'm Garfield, studying for a master's degree in computer science,  with a ke
 
 - 📫 How to reach me: <jiafie7@gmail.com>
 - 💻 Discover more about me at [garfieldzhang.site](https://garfieldzhang.site)
-
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jiafie7/jiafie7/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
-</div>
 
 <hr/>
 
