@@ -4,9 +4,9 @@
 
 ## Hi there !
 
-- A computer program is a sequence of instructions that tell the computer what to do.
+- old programmers never die -- they just go out of scope.
 
-- Life is short, focus things that are important.
+- Life is short, focus things important.
 
 - Try harder and harder.
 
