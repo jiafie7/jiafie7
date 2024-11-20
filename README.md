@@ -4,8 +4,6 @@
 
 ## Hi there !
 
-- old programmers never die -- they just go out of scope.
-
 - Life is short, focus things important.
 
 - Try harder and harder.
