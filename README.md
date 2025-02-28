@@ -4,8 +4,6 @@
 
 ## Hi there !
 
-- Life is short, focus things important.
-
 - Try harder and harder.
 
 - qwqwqwq
